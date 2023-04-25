@@ -10,7 +10,7 @@ const coffees = [
     { name: "Fruta", image: "Imagenes/fruta.jpg" },
     { name: "Licuado", image: "Imagenes/licuado.jpg" },
     { name: "Jugo", image: "Imagenes/jugo.jpg" },
-    { name: "Bebidas calientes", Image: "imagenes/cafe.jpg" },
+    { name: "Bebidas calientes", Image: "Imagenes/cafe.jpg" },
     { name: "Burritos", image: "Imagenes/burrito.jpg" },
     { name: "Flautas", image: "Imagenes/flautas.jpg" },
 ]
