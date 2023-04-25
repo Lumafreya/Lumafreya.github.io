@@ -1,6 +1,6 @@
 const container = document.querySelector(".container")
 const coffees = [
-    { name: "Desayunos", image: "Imagenes/desayuno.jpg" },
+    { name: "Desayunos", image: "Imagenes/Desayuno.jpg" },
     { name: "Comida", image: "Imagenes/comida.jpg" },
     { name: "Tortas", image: "Imagenes/Torta.jpg" },
     { name: "Quesadillas", image: "Imagenes/quesadilla.jpg" },
