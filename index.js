@@ -1,18 +1,18 @@
 const container = document.querySelector(".container")
 const coffees = [
-    { name: "Desayunos", image: "imagenes/desayuno.jpg" },
-    { name: "Comida", image: "imagenes/comida.jpg" },
-    { name: "Tortas", image: "imagenes/Torta.jpg" },
-    { name: "Quesadillas", image: "imagenes/quesadilla.jpg" },
-    { name: "Sincronizada", image: "imagenes/sincronizada.jpg" },
-    { name: "Molletes", image: "imagenes/mollete.jpg" },
-    { name: "Energetico", image: "imagenes/energetico.jpg" },
-    { name: "Fruta", image: "imagenes/fruta.jpg" },
-    { name: "Licuado", image: "imagenes/licuado.jpg" },
-    { name: "Jugo", image: "imagenes/jugo.jpg" },
-    { name: "Bebidas calientes", image: "imagenes/cafe.jpg" },
-    { name: "Burritos", image: "imagenes/burrito.jpg" },
-    { name: "Flautas", image: "imagenes/flautas.jpg" },
+    { name: "Desayunos", image: "Imagenes/desayuno.jpg" },
+    { name: "Comida", image: "Imagenes/comida.jpg" },
+    { name: "Tortas", image: "Imagenes/Torta.jpg" },
+    { name: "Quesadillas", image: "Imagenes/quesadilla.jpg" },
+    { name: "Sincronizada", image: "Imagenes/sincronizada.jpg" },
+    { name: "Molletes", image: "Imagenes/mollete.jpg" },
+    { name: "Energetico", image: "Imagenes/energetico.jpg" },
+    { name: "Fruta", image: "Imagenes/fruta.jpg" },
+    { name: "Licuado", image: "Imagenes/licuado.jpg" },
+    { name: "Jugo", image: "Imagenes/jugo.jpg" },
+    { name: "Bebidas calientes", Image: "imagenes/cafe.jpg" },
+    { name: "Burritos", image: "Imagenes/burrito.jpg" },
+    { name: "Flautas", image: "Imagenes/flautas.jpg" },
 ]
 const showCoffees = () => {
     let output = ""
