@@ -23,7 +23,7 @@ const showCoffees = () => {
                 <div class="card">
                   <img class="card--avatar" src=${image} />
                   <h1 class="card--title">${name}</h1>
-                  <a class="card--link" href="paginas/${name}/index.html">Pedir</a>
+                  <a class="card--link" href="Paginas/${name}/index.html">Pedir</a>
                 </div>
                 `)
     )
